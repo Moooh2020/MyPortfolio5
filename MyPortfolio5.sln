@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web5", "Web5\Web5.csproj", "{68652453-E063-4A0C-A7A1-DD8F80693316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{25F2EF48-262E-430F-9B6B-73668593FF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{03874AC2-A18D-4558-8959-280EFD1F77BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68652453-E063-4A0C-A7A1-DD8F80693316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68652453-E063-4A0C-A7A1-DD8F80693316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68652453-E063-4A0C-A7A1-DD8F80693316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68652453-E063-4A0C-A7A1-DD8F80693316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F2EF48-262E-430F-9B6B-73668593FF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F2EF48-262E-430F-9B6B-73668593FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F2EF48-262E-430F-9B6B-73668593FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F2EF48-262E-430F-9B6B-73668593FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03874AC2-A18D-4558-8959-280EFD1F77BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03874AC2-A18D-4558-8959-280EFD1F77BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03874AC2-A18D-4558-8959-280EFD1F77BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03874AC2-A18D-4558-8959-280EFD1F77BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72972A6E-4933-42CF-AE71-7A6AAB79821D}
+	EndGlobalSection
+EndGlobal
